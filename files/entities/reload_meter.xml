@@ -1,0 +1,14 @@
+<Entity name="soc_reload_meter">
+<SpriteComponent
+    image_file="mods/statbars_on_cursor/files/gfx/reload/meter.png"
+    z_index="-255"
+    has_special_scale="1"
+    special_scale_x="0.6"
+    special_scale_y="0.5"
+>
+</SpriteComponent>
+<LuaComponent
+    script_source_file="mods/statbars_on_cursor/files/scripts/update_reload.lua"
+>
+</LuaComponent>
+</Entity>
