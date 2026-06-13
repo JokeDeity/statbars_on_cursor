@@ -1,8 +1,0 @@
-<Mod
-	id="statbars_on_cursor"
-	name="Statbars on Cursor"
-	description="Displays health, mana, reload, levitation, and oxygen bars around the cursor."
-	version="1.0"
-	author="JokeDeity"
-	request_no_api_restrictions="0"
-/>
